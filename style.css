@@ -1,0 +1,43 @@
+body{
+    font-family: sans-serif;
+    color: black;
+    font-size:16px;
+    background-image: url(images/cool-white-background-15.jpg);
+    background-size: cover;
+    width:%50;
+    
+    margin: auto;
+    
+}
+
+h1 {
+    background-color: #b3ecec;
+    border-bottom: solid 3px black;
+   
+    
+}
+
+.malzemeler{
+    color: red;
+
+}
+
+.baslik{
+    
+    color:blue;
+    
+}
+#yazı{
+    
+font-family: verdana;
+    font-size:18px;
+    color: darkblue;
+}
+img {
+    display: block
+        widht 60%;
+    border: dotted spx blue;
+    border :radius 50%
+    
+    
+}
